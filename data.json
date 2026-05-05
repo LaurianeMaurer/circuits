@@ -3,12 +3,24 @@
     "name": "Circuit Nature 2 jours",
     "type": "nature",
     "days": 2,
-    "description": "Randonnée et nature",
+    "description": "Test 1",
     "image": "https://...",
     "url": "/nature-2j",
     "steps": [
       { "type": "camping", "name": "Aire camping", "lat": 43.6045, "lng": 1.444 },
       { "type": "rando", "name": "Rando 1", "lat": 43.606, "lng": 1.446 }
+    ]
+  }
+    {
+    "name": "Circuit Ville 3 jours",
+    "type": "ville",
+    "days": 3,
+    "description": "Test 2",
+    "image": "https://...",
+    "url": "/nature-2j",
+    "steps": [
+      { "type": "camping", "name": "Aire camping", "lat": 53.6045, "lng": 8.444 },
+      { "type": "rando", "name": "Rando 1", "lat": 53.606, "lng": 8.446 }
     ]
   }
 ]
