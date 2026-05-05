@@ -10,8 +10,8 @@
       { "type": "camping", "name": "Aire camping", "lat": 43.6045, "lng": 1.444 },
       { "type": "rando", "name": "Rando 1", "lat": 43.606, "lng": 1.446 }
     ]
-  }
-    {
+  },
+  {
     "name": "Circuit Ville 3 jours",
     "type": "ville",
     "days": 3,
