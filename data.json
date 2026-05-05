@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Circuit Nature 2 jours",
+    "type": "nature",
+    "days": 2,
+    "description": "Randonnée et nature",
+    "image": "https://...",
+    "url": "/nature-2j",
+    "steps": [
+      { "type": "camping", "name": "Aire camping", "lat": 43.6045, "lng": 1.444 },
+      { "type": "rando", "name": "Rando 1", "lat": 43.606, "lng": 1.446 }
+    ]
+  }
+]
