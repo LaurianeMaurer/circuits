@@ -12,14 +12,14 @@
       {
         "type": "camping",
         "name": "Aire camping",
-        "lat": 43.1045,
-        "lng": 1.144
+        "lat": 44.1045,
+        "lng": 2.144
       },
       {
         "type": "rando",
         "name": "Randonnée forêt",
-        "lat": 43.306,
-        "lng": 1.346
+        "lat": 44.306,
+        "lng": 2.346
       }
     ]
   },
