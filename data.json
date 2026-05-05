@@ -1,26 +1,74 @@
 [
   {
+    "id": "circuit-1",
     "name": "Circuit Nature 2 jours",
     "type": "nature",
     "days": 2,
-    "description": "Test 1",
-    "image": "https://...",
+    "description": "Randonnée et nature autour de Toulouse",
+    "image": "https://via.placeholder.com/400x200",
     "url": "/nature-2j",
+
     "steps": [
-      { "type": "camping", "name": "Aire camping", "lat": 43.6045, "lng": 1.444 },
-      { "type": "rando", "name": "Rando 1", "lat": 43.606, "lng": 1.446 }
+      {
+        "type": "camping",
+        "name": "Aire camping",
+        "lat": 43.6045,
+        "lng": 1.444
+      },
+      {
+        "type": "rando",
+        "name": "Randonnée forêt",
+        "lat": 43.606,
+        "lng": 1.446
+      }
+    ]
+  },
+ {
+    "id": "circuit-2",
+    "name": "Circuit à Toulouse",
+    "type": "ville",
+    "days": 2,
+    "description": "Randonnée et nature autour de Toulouse",
+    "image": "https://via.placeholder.com/400x200",
+    "url": "/Toulouse",
+
+    "steps": [
+      {
+        "type": "camping",
+        "name": "Aire camping",
+        "lat": 43.6045,
+        "lng": 1.444
+      },
+      {
+        "type": "rando",
+        "name": "Randonnée forêt",
+        "lat": 43.606,
+        "lng": 1.446
+      }
     ]
   },
   {
-    "name": "Circuit Ville 3 jours",
+    "id": "circuit-3",
+    "name": "Circuit en Allemagne",
     "type": "ville",
     "days": 3,
-    "description": "Test 2",
-    "image": "https://...",
-    "url": "/nature-2j",
+    "description": "Découverte du nord de l'Allemagne",
+    "image": "https://via.placeholder.com/400x200",
+    "url": "/ville-3j",
+
     "steps": [
-      { "type": "camping", "name": "Aire camping", "lat": 53.6045, "lng": 8.444 },
-      { "type": "rando", "name": "Rando 1", "lat": 53.606, "lng": 8.446 }
+      {
+        "type": "restaurant",
+        "name": "Restaurant centre",
+        "lat": 53.608,
+        "lng": 8.448
+      },
+      {
+        "type": "rando",
+        "name": "Balade centre",
+        "lat": 53.610,
+        "lng": 8.450
+      }
     ]
   }
 ]
