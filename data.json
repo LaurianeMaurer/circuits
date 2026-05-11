@@ -11,7 +11,7 @@
 
     "steps": [
       {
-        "type": "hébergement",
+        "type": "campingcar",
         "name": "Aire de camping-car",
         "url": "https://park4night.com/fr/place/35576",
         "lat": 43.47527394043904,
