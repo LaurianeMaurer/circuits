@@ -6,15 +6,16 @@
     "mode" : "camping-car",
     "days": 4,
     "description": "vélo & rando dans le Haut-languedoc",
-    "image": "https://laurianemaurer.github.io/circuits/images/plage_de_bernardi.jpg",
+    "image": "https://laurianemaurer.github.io/circuits/images/haut-languedoc-gorge-heric.png.jpg",
     "url": "/haut-languedoc-circuit4j",
 
     "steps": [
       {
-        "type": "camping",
-        "name": "Aire camping",
-        "lat": 44.1045,
-        "lng": 2.144
+        "type": "hébergement",
+        "name": "Aire de camping-car",
+        "url": "https://park4night.com/fr/place/35576",
+        "lat": 43.47527394043904,
+        "lng": 2.634986137257334
       },
       {
         "type": "rando",
