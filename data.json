@@ -1,12 +1,13 @@
 [
   {
     "id": "circuit-1",
-    "name": "Circuit Nature 2 jours",
+    "name": "Découverte du parc naturel régional du Haut-Languedoc",
     "type": "nature",
-    "days": 2,
-    "description": "Randonnée et nature autour de Toulouse",
+    "mode" : "camping-car",
+    "days": 4,
+    "description": "vélo & rando dans le Haut-languedoc",
     "image": "https://laurianemaurer.github.io/circuits/images/plage_de_bernardi.jpg",
-    "url": "/nature-2j",
+    "url": "/haut-languedoc-circuit4j",
 
     "steps": [
       {
