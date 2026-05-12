@@ -28,9 +28,11 @@
       },
       {
         "type": "rando",
-        "name": "Randonnée forêt",
-        "lat": 44.306,
-        "lng": 2.346
+        "name": "Randonnée des gorges d'Héric",
+        "description": "Randonnée de 12km, sportive mais accessible en famille, à la découverte des gorges d'Héric et du massif du Couroux.",
+        "url": "https://www.herault-tourisme.com/fr/fiche/itineraires-touristiques/randonnee-des-gorges-d-heric-par-le-col-de-bardou-mons-la-trivalle_TFOITILAR034V52NEJT/",
+        "lat": 43.56698976612799, 
+        "lng": 2.9608655071708614
       }
     ]
   },
