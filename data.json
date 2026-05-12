@@ -28,15 +28,23 @@
       },
       {
         "type": "rando",
-        "name": "Randonnée dans les gorges d'Héric",
+        "name": "Jour 2 : Randonnée dans les gorges d'Héric",
         "description": "Randonnée de 12km, sportive mais accessible en famille, à la découverte des gorges d'Héric et du massif du Couroux.",
         "url": "https://www.herault-tourisme.com/fr/fiche/itineraires-touristiques/randonnee-des-gorges-d-heric-par-le-col-de-bardou-mons-la-trivalle_TFOITILAR034V52NEJT/",
         "lat": 43.56698976612799, 
         "lng": 2.9608655071708614
       },
       {
+        "type": "visite",
+        "name": "Jour 3 : matin - Visite de la grotte de la fileuse de verre",
+        "description": "Visite d'1h à la découverte des somptueuses abîmes sculptées par l'eau. tarif : 12 € par adulte (à partir de 13 ans) et 6 € pour les enfants de 6 à 12 ans",
+        "url": "https://lafileusedeverre.fr/",
+        "lat": 43.47398530429208, 
+        "lng": 2.7131689527679663
+      },
+      {
         "type": "rando",
-        "name": "Randonnée dans les gorges de Colombières",
+        "name": "Jour 4 : Randonnée dans les gorges de Colombières",
         "description": "Randonnée de 13km sur les terres d'Hérault, à travers les paysage de landes, chataigneraie et voie romaine.",
         "url": "https://www.herault-tourisme.com/fr/fiche/itineraires-touristiques/randonnee-des-gorges-de-colombieres-colombieres-sur-orb_TFOITILAR034V508QUZ/",
         "lat": 43.582065118731414, 
