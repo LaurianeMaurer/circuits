@@ -33,6 +33,14 @@
         "url": "https://www.herault-tourisme.com/fr/fiche/itineraires-touristiques/randonnee-des-gorges-d-heric-par-le-col-de-bardou-mons-la-trivalle_TFOITILAR034V52NEJT/",
         "lat": 43.56698976612799, 
         "lng": 2.9608655071708614
+      },
+      {
+        "type": "rando",
+        "name": "Randonnée dans les gorges de Colombières",
+        "description": "Randonnée de 13km sur les terres d'Hérault, à travers les paysage de landes, chataigneraie et voie romaine.",
+        "url": "https://www.herault-tourisme.com/fr/fiche/itineraires-touristiques/randonnee-des-gorges-de-colombieres-colombieres-sur-orb_TFOITILAR034V508QUZ/",
+        "lat": 43.582065118731414, 
+        "lng": 3.0115216486556573
       }
     ]
   },
