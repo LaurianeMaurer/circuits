@@ -12,10 +12,19 @@
     "steps": [
       {
         "type": "campingcar",
-        "name": "Aire de camping-car",
+        "name": "Aire de camping-car de Labastide-Rouairoux",
+        "description": "Aire de camping-car gratuite, très calme, 6 places, avec tous les services, proche des commerces, et devant la voie verte pour les amateurs de cyclisme!",
         "url": "https://park4night.com/fr/place/35576",
         "lat": 43.47527394043904,
         "lng": 2.634986137257334
+      },
+      {
+        "type": "vélo",
+        "name": "Voie verte Passa Paîs",
+        "description": "Passa Païs, voie verte de 76 km entre Mazamet et Bédarieux, traverse le Parc naturel régional du Haut-Languedoc et vous invite à découvrir patrimoine local, gorges, grottes et villages de caractère.",
+        "url": "https://passapaisveloccitanie.fr/",
+        "lat": 43.48326361501816,
+        "lng": 2.51542827696969
       },
       {
         "type": "rando",
