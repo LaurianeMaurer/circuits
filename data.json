@@ -54,8 +54,9 @@
   },
  {
     "id": "circuit-2",
-    "name": "Circuit à Toulouse",
-    "type": "ville",
+    "name": "Les merveilles des Vermeilles : Anse de Paulilles",
+    "type": "Nature",
+    "mode": "Camping-car",
     "days": 2,
     "description": "Randonnée et nature autour de Toulouse",
     "image": "https://via.placeholder.com/400x200",
